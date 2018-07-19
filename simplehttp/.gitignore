@@ -1,0 +1,15 @@
+*.o
+*.a
+*.dSYM
+*.pyc
+*.deps
+build
+dist
+sortdb/sortdb
+simplequeue/simplequeue
+simpleleveldb/simpleleveldb
+simpleleveldb/leveldb_to_csv
+simpleleveldb/csv_to_leveldb
+test_output
+.sw[op]
+*.egg-info/
