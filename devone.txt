@@ -1,4 +1,6 @@
 this is dev one text file using for develepement.
 Now did changes in master branches.....
 
-again in dev branch....
+again in dev branch..
+
+master doing chages..
